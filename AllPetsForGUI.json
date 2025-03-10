@@ -1,0 +1,11 @@
+{
+    "pets": [{
+        "image": "src/main/Image/SelectPetType/Rabbit/r2.png",
+        "gender": "female",
+        "name": "Coco",
+        "type": "rabbit",
+        "age": 0,
+        "status": "alive"
+    }],
+    "name": "Pets"
+}
